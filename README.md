@@ -16,6 +16,10 @@ Perfect for designers, developers, and creatives looking for instant color inspi
 
 ---
 
+##   Screenshot
+<p align="center">
+  <img src="./public/'coloursamples.png' ="I See Colors Preview" width="600" />
+</p>
 ## 🧰 Tech Stack
 - **HTML5**
 - **CSS3 (Glassmorphism + Animations)**
