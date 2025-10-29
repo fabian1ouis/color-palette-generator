@@ -1,4 +1,4 @@
-# 🎨 Random Color Palette Generator
+# I See Colors 🔴🟠🟡🟢🔵🟣
 
 A sleek and modern **Color Palette Generator** that creates 5 beautiful random colors every time you click the button.  
 Perfect for designers, developers, and creatives looking for instant color inspiration.  
@@ -8,7 +8,7 @@ Perfect for designers, developers, and creatives looking for instant color inspi
 ---
 
 ## ✨ Features
-- 🌈 Generates fresh palettes on each click  
+- 🔴🟡🟢🟣 Generates fresh palettes on each click  
 - 📋 Click on a color to copy its hex code  
 - 💾 Saves your last palette automatically  
 - 💫 Animated floating color cards & glassmorphic UI  
