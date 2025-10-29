@@ -3,7 +3,7 @@
 A sleek and modern **Color Palette Generator** that creates 5 beautiful random colors every time you click the button.  
 Perfect for designers, developers, and creatives looking for instant color inspiration.  
 
-🌐 **Live Demo:** [https://fabian1ouis.github.io/color-palette-generator](https://fabian1ouis.github.io/color-palette-generator)
+🌐 **Live Demo:** [https://fabian1ouis.github.io/i-see-colors](https://fabian1ouis.github.io/i-see-colors)
 
 ---
 
