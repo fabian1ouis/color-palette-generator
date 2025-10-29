@@ -7,7 +7,7 @@ Perfect for designers, developers, and creatives looking for instant color inspi
 
 ---
 
-## ✨ Features
+##  Features
 - 🔴🟡🟢🟣 Generates fresh palettes on each click  
 - 📋 Click on a color to copy its hex code  
 - 💾 Saves your last palette automatically  
