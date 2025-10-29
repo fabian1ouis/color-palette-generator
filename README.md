@@ -18,7 +18,7 @@ Perfect for designers, developers, and creatives looking for instant color inspi
 
 ### 🖼️ Screenshot
 
-![ Preview](./public/colorsamples.png)
+![ Preview](./public/iseecolors.png)
 
 ## 🧰 Tech Stack
 - **HTML5**
